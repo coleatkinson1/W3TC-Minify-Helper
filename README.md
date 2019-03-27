@@ -12,3 +12,11 @@ This is often a tedious process which I would rather have automated.
 
 ## How does it work?
 Using the pagespeed insights API, it gathers all of the render-blocking resources, and adds these to W3TC
+
+## How do I use it?
+1. Install W3TC and enable minify.
+2. Install and activate this plugin.
+3. Enter an API key from pagespeed Insights
+4. Click 'Detect'
+5. Either manually enter the files, or click the automatic config update
+6. Done!
